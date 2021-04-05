@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-
-namespace tabuleiro
+﻿namespace tabuleiro
 {
     class Posicao
     {
